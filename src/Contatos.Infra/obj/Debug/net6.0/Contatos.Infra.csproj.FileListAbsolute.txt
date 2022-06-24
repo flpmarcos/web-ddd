@@ -1,0 +1,17 @@
+C:\sources\web-ddd\src\Contatos.Infra\bin\Debug\net6.0\Contatos.Infra.deps.json
+C:\sources\web-ddd\src\Contatos.Infra\bin\Debug\net6.0\Contatos.Infra.runtimeconfig.json
+C:\sources\web-ddd\src\Contatos.Infra\bin\Debug\net6.0\Contatos.Infra.dll
+C:\sources\web-ddd\src\Contatos.Infra\bin\Debug\net6.0\Contatos.Infra.pdb
+C:\sources\web-ddd\src\Contatos.Infra\bin\Debug\net6.0\Contatos.Domain.dll
+C:\sources\web-ddd\src\Contatos.Infra\bin\Debug\net6.0\Contatos.Domain.pdb
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\Contatos.Infra.csproj.AssemblyReference.cache
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\Contatos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\Contatos.Infra.AssemblyInfoInputs.cache
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\Contatos.Infra.AssemblyInfo.cs
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\Contatos.Infra.csproj.CoreCompileInputs.cache
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\Contatos.Infra.csproj.CopyComplete
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\Contatos.Infra.dll
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\refint\Contatos.Infra.dll
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\Contatos.Infra.pdb
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\Contatos.Infra.genruntimeconfig.cache
+C:\sources\web-ddd\src\Contatos.Infra\obj\Debug\net6.0\ref\Contatos.Infra.dll

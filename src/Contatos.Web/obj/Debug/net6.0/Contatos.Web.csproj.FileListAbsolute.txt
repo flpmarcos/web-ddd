@@ -1,0 +1,7 @@
+C:\sources\web-ddd\src\contatos.web\obj\Debug\net6.0\Contatos.Web.csproj.AssemblyReference.cache
+C:\sources\web-ddd\src\contatos.web\obj\Debug\net6.0\Contatos.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\web-ddd\src\contatos.web\obj\Debug\net6.0\Contatos.Web.AssemblyInfoInputs.cache
+C:\sources\web-ddd\src\contatos.web\obj\Debug\net6.0\Contatos.Web.AssemblyInfo.cs
+C:\sources\web-ddd\src\contatos.web\obj\Debug\net6.0\Contatos.Web.csproj.CoreCompileInputs.cache
+C:\sources\web-ddd\src\contatos.web\obj\Debug\net6.0\Contatos.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\sources\web-ddd\src\contatos.web\obj\Debug\net6.0\Contatos.Web.MvcApplicationPartsAssemblyInfo.cache

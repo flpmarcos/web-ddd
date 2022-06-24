@@ -1,0 +1,12 @@
+C:\sources\web-ddd\src\Contatos.Domain\bin\Debug\net6.0\Contatos.Domain.deps.json
+C:\sources\web-ddd\src\Contatos.Domain\bin\Debug\net6.0\Contatos.Domain.dll
+C:\sources\web-ddd\src\Contatos.Domain\bin\Debug\net6.0\Contatos.Domain.pdb
+C:\sources\web-ddd\src\Contatos.Domain\obj\Debug\net6.0\Contatos.Domain.csproj.AssemblyReference.cache
+C:\sources\web-ddd\src\Contatos.Domain\obj\Debug\net6.0\Contatos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\web-ddd\src\Contatos.Domain\obj\Debug\net6.0\Contatos.Domain.AssemblyInfoInputs.cache
+C:\sources\web-ddd\src\Contatos.Domain\obj\Debug\net6.0\Contatos.Domain.AssemblyInfo.cs
+C:\sources\web-ddd\src\Contatos.Domain\obj\Debug\net6.0\Contatos.Domain.csproj.CoreCompileInputs.cache
+C:\sources\web-ddd\src\Contatos.Domain\obj\Debug\net6.0\Contatos.Domain.dll
+C:\sources\web-ddd\src\Contatos.Domain\obj\Debug\net6.0\refint\Contatos.Domain.dll
+C:\sources\web-ddd\src\Contatos.Domain\obj\Debug\net6.0\Contatos.Domain.pdb
+C:\sources\web-ddd\src\Contatos.Domain\obj\Debug\net6.0\ref\Contatos.Domain.dll
