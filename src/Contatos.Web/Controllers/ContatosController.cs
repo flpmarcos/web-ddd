@@ -20,7 +20,7 @@ namespace Contatos.Web.Controllers
          public IEnumerable<Contato> GetContatos()
          {
               var contatos = _contatoRepository.GetAll();
-              return View(viewsModels);
+              return contatos;
          }
          [HttpGet("{id}")]
          public  ActionResult<Contato> GetContato(int id)
